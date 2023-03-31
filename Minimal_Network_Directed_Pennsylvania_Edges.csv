@@ -1,4 +1,4 @@
-Source,Target,Type,Id,Label,Weight,0
+0,b,Type,Id,Label,Weight,Distance
 Oregon,Washington,Directed,1,,1,160
 California,Oregon,Directed,4,,1,536
 California,Arizona,Directed,5,,1,755
