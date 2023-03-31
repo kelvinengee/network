@@ -1,0 +1,29 @@
+Source,Target,Type,Id,Label,Weight,0
+Oregon,Washington,Directed,1,,1,160
+California,Oregon,Directed,4,,1,536
+California,Arizona,Directed,5,,1,755
+Nevada,California,Directed,6,,1,130
+Indiana,Minnesota,Directed,11,,1,582
+Louisiana,Texas,Directed,12,,1,432
+Florida,South Carolina,Directed,15,,1,355
+Kentucky,Tennessee,Directed,16,,1,210
+Kentucky,Georgia,Directed,57,,1,210
+Kentucky,Kansas,Directed,19,,1,621
+Georgia,Florida,Directed,21,,1,261
+Louisiana,Georgia,Directed,58,,1,526
+South Carolina,North Carolina,Directed,24,,1,227
+Kansas,Colorado,Directed,26,,1,540
+Pennsylvania,Maryland,Directed,28,,1,112
+Pennsylvania,New Jersey,Directed,29,,1,127
+Pennsylvania,Virginia,Directed,30,,1,220
+Pennsylvania,Illinois,Directed,32,,1,749
+New Jersey,Delaware,Directed,36,,1,112
+New Jersey,Conneticut,Directed,38,,1,180
+New Jersey,Massachusetts,Directed,39,,1,279
+Massachusetts,New Hampshire,Directed,42,,1,68
+Colorado,Nevada,Directed,46,,1,990
+Illinois,Indiana,Directed,48,,1,208
+Illinois,Wisconsin,Directed,49,,1,264
+Illinois,Michigan,Directed,50,,1,391
+Michigan,Ohio,Directed,53,,1,254
+Kentucky,Pennsylvania,Directed,56,,1,
